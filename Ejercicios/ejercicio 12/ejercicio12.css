@@ -1,0 +1,20 @@
+section{
+    width:100px;
+    height:100px;
+}
+
+.red{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.black{
+    background-color: black;
+}
+
+.green{
+    background-color: green;
+}
