@@ -1,0 +1,19 @@
+div{
+    height:50px
+}
+
+.verde{
+    background-color: green;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.pequeño{
+    height: 25px;
+}
+
+.grande{
+    height: 75px;
+}
