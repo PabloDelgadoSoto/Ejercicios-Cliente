@@ -1,0 +1,43 @@
+.section{
+    width:100px;
+    height:100px;
+    background-color: blue;
+    font-size: 500%;
+    text-align: center;
+}
+
+.usuario{
+    width:100px;
+    height:100px;
+    background-color: green;
+    font-size: 500%;
+    text-align: center;
+}
+
+.cursor{
+    width:100px;
+    height:100px;
+    background-color: red;
+    font-size: 500%;
+    text-align: center;
+}
+
+.red{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.black{
+    background-color: black;
+}
+
+.green{
+    background-color: green;
+}
+
+.quitar{
+    display:none;
+}
