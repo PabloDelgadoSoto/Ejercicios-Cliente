@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+
+#p{
+    position: absolute;
+    white-space: nowrap;
+    left:110px;
+}
